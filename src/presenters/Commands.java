@@ -1,0 +1,5 @@
+package presenters;
+
+public enum Commands {
+	START, GAME_OVER_OPTION, GAME_WIN_OPTION ,PAUSED_OPTION, TUTORIAL_OPTIONS, SCREENSHOTS_OPTION,
+}
